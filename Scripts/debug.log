@@ -1,0 +1,22 @@
+[1226/091304.061:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[1226/091304.085:ERROR:exception_snapshot_win.cc(98)] thread ID 2484 not found in process
+[1226/091304.156:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[1226/091304.157:ERROR:exception_snapshot_win.cc(98)] thread ID 11340 not found in process
+[1226/092111.722:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[1226/092111.723:ERROR:exception_snapshot_win.cc(98)] thread ID 11276 not found in process
+[1226/092111.790:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1226/092111.791:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1226/092111.791:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1226/092111.791:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1226/092111.791:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1226/092111.791:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[1226/092111.791:ERROR:exception_snapshot_win.cc(98)] thread ID 14512 not found in process
+[1226/092711.415:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[1226/092711.416:ERROR:exception_snapshot_win.cc(98)] thread ID 10092 not found in process
+[1226/092711.483:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[1226/092711.484:ERROR:exception_snapshot_win.cc(98)] thread ID 11224 not found in process
+[0113/162747.966:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0113/162747.991:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0113/162747.991:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0113/162747.991:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[0113/162747.991:ERROR:exception_snapshot_win.cc(98)] thread ID 5736 not found in process

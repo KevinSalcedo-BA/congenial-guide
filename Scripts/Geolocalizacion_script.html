@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>as</title>
+</head>
+<body>
+<button onclick="myUbicacion()">Mi Ubicación</button>
+<p id="ubicacion"></p>
+</body>
+</html>
+<script type="text/javascript">
+	var x = document.getElementById("ubicacion");
+function myUbicacion() {
+        navigator.geolocation.getCurrentPosition(showPosition);
+}
+function showPosition(position) {
+    x.innerHTML = "Latitud: " + position.coords.latitude + 
+                  "<br>Longitud: " + position.coords.longitude;
+}
+</script>
